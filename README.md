@@ -1,5 +1,5 @@
 # Gambling-Game
-This is the product of a (Javascript) class I took. I was able to refine the codes in my own way.
+This is the product of a (Javascript) course I took. I was able to refine the codes in my own way.
 
 Link to Github Pages is below 
 https://blackrelicdev.github.io/Gambling-Game/
