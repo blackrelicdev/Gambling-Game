@@ -70,6 +70,7 @@ btnRoll.addEventListener('click', function () {
   }
 });
 
+// Holding The Dice
 btnHold.addEventListener('click', function () {
   if (playing) {
     //1. Add current score to active player score
@@ -93,6 +94,7 @@ btnHold.addEventListener('click', function () {
   }
 });
 
+// New Game
 btnNew.addEventListener('click', initialize);
 
 // Old Code
